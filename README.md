@@ -3,6 +3,9 @@
 Что сделано:
 https://vk.com/app51807611_345797221
 
+Чем лучше других: в быстром доступе
+
+
 ![image](https://github.com/Giramon/Hakaton/assets/120495791/94310f41-6cee-4af2-8905-d329baa0e340)
 ![image](https://github.com/Giramon/Hakaton/assets/120495791/a202a6cc-621c-429f-b4a1-1426f55f58a7)
 
